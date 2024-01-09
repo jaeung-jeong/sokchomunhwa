@@ -5,7 +5,7 @@ var eBookData = {
 	password			: "",
 	useDebug			: false,
 	pageExt				: 'jpg',
-	totalPageNum	: 355,
+	totalPageNum	: 156,
 	useLogo				: false,
 	logoUrl				: "http://",
 	homeUrl				: "http://",
