@@ -34,26 +34,9 @@ RANDOM:23588,
 bookList : [ /** 이전호 목록 */
 ],
 tableList : [ /** 목차 */
-		{ "index" : "-1" , "label" : "root"
-			, "url" : "" 
-			, "child" : "14"
-			, "id" : "0" 
-			, "parent" : "-1"  
-		},
-		{ "index" : "1"
-			, "label" 	: "표지"
-			, "url" : "" 
-			, "child" : "0"
-			, "id" : "1" 
-			, "parent" : "0" 
-		},
-		{ "index" : "2"
-			, "label" : "권두시"
-			, "url" : "" 
-			, "child" : "0"
-			, "id" : "2" 
-			, "parent" : "0" 
-		},
+		{ "index" : "-1" , "label" : "root", "url" : "" , "child" : "14", "id" : "0", "parent" : "-1"},
+		{ "index" : "1", "label" 	: "표지", "url" : "", "child" : "0", "id" : "1" , "parent" : "0"},
+		{ "index" : "2", "label" : "권두시", "url" : "" , "child" : "0", "id" : "2" , "parent" : "0" },
 		{ "index" : "3", "label" 	: "속표지", "url" : "" , "child" : "0", "id" : "3" , "parent" : "0" },
 		{ "index" : "4", "label" 	: "CONTNENTS", "url" : "" , "child" : "0", "id" : "4" , "parent" : "0" },
 		{ "index" : "5", "label" 	: "판권", "url" : "" , "child" : "0", "id" : "5" , "parent" : "0" },
